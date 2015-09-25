@@ -1,0 +1,8 @@
+D:\Study\KQSX\KQSX\bin\Debug\KQSX.exe
+D:\Study\KQSX\KQSX\bin\Debug\KQSX.pdb
+D:\Study\KQSX\KQSX\obj\x86\Debug\KQSX.MainForm.resources
+D:\Study\KQSX\KQSX\obj\x86\Debug\KQSX.Properties.Resources.resources
+D:\Study\KQSX\KQSX\obj\x86\Debug\KQSX.csproj.GenerateResource.Cache
+D:\Study\KQSX\KQSX\obj\x86\Debug\KQSX.exe
+D:\Study\KQSX\KQSX\obj\x86\Debug\KQSX.pdb
+D:\Study\KQSX\KQSX\obj\x86\Debug\KQSX.csprojResolveAssemblyReference.cache
