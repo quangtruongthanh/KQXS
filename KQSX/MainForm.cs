@@ -33,7 +33,7 @@ namespace KQSX
             dtInfos.Columns.Add("SoNgayChuaXuatHien", typeof(int));
             dtInfos.Columns.Add("SoNgayConLai", typeof(int));
             dtInfos.Columns.Add("ChuKys");
-         //   dtInfos.Columns.Add("SoNgayConLaiTrungBinh") ;
+         //   dtInfos.Columns.Add("SoNgayConLaiTrungBinh")  ;
             dtInfos.Columns.Add("DuDoanChuKy");
             dtInfos.Columns.Add("OK");
 
